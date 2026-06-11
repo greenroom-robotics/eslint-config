@@ -1,5 +1,7 @@
 # Changelog
 
+**Note:** Version numbers below versions are out of order due to historical changelog entries that were never synced with package.json. As of 0.0.6, package.json version, changelog versions and registry are now synchronized.
+
 ## 0.0.6
 
 - Migrate to ESLint 9 flat config (`eslint.config.js`)
