@@ -1,16 +1,14 @@
 {
   "type": "module",
   "name": "@greenroom-robotics/eslint-config",
-  "version": "0.0.6",
+  "version": "1.0.0",
   "description": "Eslint config for typescript & prettier",
   "main": "./eslint.config.js",
   "exports": {
-    ".": "./eslint.config.js",
-    "./tsconfig": "./tsconfig.base.json"
+    ".": "./eslint.config.js"
   },
   "files": [
     "eslint.config.js",
-    "tsconfig.base.json",
     ".prettierrc.js",
     "package.json"
   ],
