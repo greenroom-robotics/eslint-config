@@ -1,3 +1,9 @@
+## 1.0.0 (2026-06-15)
+
+### Features
+
+* [sc-21849] update eslint to version 9 ([#1](https://github.com/Greenroom-Robotics/eslint-config/issues/1)) ([cc3ba4e](https://github.com/Greenroom-Robotics/eslint-config/commit/cc3ba4efe50fbb8fceb20dc6dac03cc0150c3ee9))
+
 # Changelog
 
 **Note:** Version numbers below are out of order due to historical changelog entries that were never synced with package.json. As of 1.0.0, package.json version, changelog versions and registry are now synchronized.
